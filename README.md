@@ -25,4 +25,12 @@ to compare my results to their results. This algorithm had a similar challenge w
 short comments as well
 
 Results are printed in 4 csv files: english comments and non-english comments (my
-algorithm) and google english comments and google non-english comments
+algorithm) and google english comments and google non-english comments.
+
+Below shows a snippet of the table for the comments determined to be English and the comments determined to be non-English. As you can see, some of the shorter English comments were determined to be non-English. Additionally, there are some comments that are just the number 1 (users will rate a game a score of 1 and comment "1") which are determined to be non-English.
+
+English comments
+![alt text](https://github.com/savanaconda/PortlandDataScience_NaturalLanguageProcessing/blob/master/Results_EnglishComments.png)
+
+Non-English comments
+![alt text](https://github.com/savanaconda/PortlandDataScience_NaturalLanguageProcessing/blob/master/Results_NonEnglishComments.png)
